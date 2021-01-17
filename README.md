@@ -6,16 +6,22 @@ Before using HW2 dataset, first need to turn annotation into VOC format. The fil
 Follow the step below, put data to the designated place and produce the format which model needs.(Since dataset size is too large need to  move by hand)
 
 ### Catogory
-1.Performance.
-2.Achievement.
-3.Environment.
-4.Attention.
-5.Trickset.
-6.Download.
-7.Predict step.
-8.Train step.
-9.Reference.
+1.Performance
 
+2.Achievement
+
+3.Environment
+
+4.Attention
+
+5.Trickset
+6.Download
+
+7.Predict step
+
+8.Train step
+
+9.Reference
 ### Performance
 | 訓練數據集 | 權值文件名稱 | 測試數據集 | 輸入圖片大小 | mAP 0.5:0.95 | mAP 0.5 |
 | :-----: | :-----: | :------: | :------: | :------: | :-----: |
