@@ -1,7 +1,7 @@
 # Digits-detection
 
 # NCTU hw2
-Before using HW3 dataset, first need to turn annotation into VOC format. The file comes from https://github.com/penny4860/svhn-voc-annotation-format
+Before using HW2 dataset, first need to turn annotation into VOC format. The file comes from https://github.com/penny4860/svhn-voc-annotation-format
 
 Follow the step below, put data to the designated place and produce the format which model needs.(Since dataset size is too large need to  move by hand)
 
